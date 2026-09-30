@@ -134,10 +134,4 @@ Recording: **[paste public Google Drive link]**
    the export is complete before quoting rupees; everything scales linearly. The agreed next step is the bot
    routing change, then re-run on October–November tickets before any hiring decision.
 
-**Honest hours spent. One number.**
 
-**[fill in your own number]**
-
-**Github Repo Link**
-
-**[paste public repo URL]**
