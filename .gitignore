@@ -1,0 +1,9 @@
+# Client data stays out of the public repo (customer names, cities, order ids)
+data/*.csv
+data/*.pdf
+data/*.txt
+!data/README.md
+.venv/
+__pycache__/
+*.pyc
+.DS_Store
